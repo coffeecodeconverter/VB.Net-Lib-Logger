@@ -1,4 +1,4 @@
-# VB.Net-Lib-AsyncLogger  
+# VB.Net-Lib-Logger
 Asynchronous Logging Class for VB.Net with Support for Multiple Log Levels and Output Formats
 
 ---
